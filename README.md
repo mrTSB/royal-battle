@@ -1,1 +1,3 @@
-# royal-battle
+# Royal Battle
+
+I built this game using the Java GUI to demonstrate my OOP development skills. This game successfully combines hit games Clash Royale and Battle Cats. You have the ability to play against another player or an AI. The player has the ability to place characters or spells onto the battleground with the objective of destroying the enemy tower. There are interactive bullets (balls) and health bars over the characters. The two teams are soccer and basketball with respective characters, towers, and bullets for each theme. Like Battle Cats you play in a line against each other, and like Clash Royale you have elixer controlling what characters and spells you can spawn. These dynamics lead to an interesting strategy game.
